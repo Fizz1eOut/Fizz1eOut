@@ -21,59 +21,23 @@
 - 💬 &nbsp; Feel free to reach out  [здесь](https://t.me/Fizzleout)
 
 ### 🔨 Languages & Tools:
+
+[![My Skills](https://skillicons.dev/icons?i=js,ts,vue,nuxt,html,css,vite,nodejs,figma,git,github,vscode&perline=6)](https://skillicons.dev)
+
 <div>
-  <a href="#tech-stack">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/javascript/javascript-original.svg" width="36" height="36" alt="javascript" />
-  </a>
-  <a href="#tech-stack">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="36" height="36" alt="typescript" />
-  </a>
-  <a href="#tech-stack">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" width="36" height="36" alt="Vue" />
-  </a>
-  <a href="#tech-stack">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nuxtjs/nuxtjs-original.svg" width="36" height="36" alt="Nuxt" />
-  </a>
   <a href="#tech-stack">
     <img src="https://router.vuejs.org/logo.svg" width="36" height="36" alt="Vue Router" />
   </a>
   <a href="#tech-stack">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width="36" height="36" alt="Html5" />
+    <img src="https://pinia.vuejs.org/logo.svg" width="36" height="36" alt="Pinia" />
   </a>
-  <a href="#tech-stack">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" width="36" height="36" alt="css3" />
-  </a>
-  <a href="#tech-stack">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" width="36" height="36" alt="nodejs" />
-  </a>
-  <a href="#tech-stack">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/figma/figma-original.svg" width="36" height="36" alt="figma" />
-  </a>
-  <a href="#tech-stack">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/git/git-original.svg" width="36" height="36" alt="git" />
-  </a>
-  <a href="#tech-stack">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" width="36" height="36" alt="github" />
-  </a>
-  <a href="#tech-stack">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/eslint/eslint-original.svg" width="36" height="36" alt="eslint" />
-  </a>
-  <a href="#tech-stack">
-    <img src="https://cdn.jsdelivr.net/npm/prettier@3/doc-logo.svg" width="36" height="36" alt="prettier" />
-  </a>
-  <a href="#tech-stack">
-    <img src="https://vitejs.dev/logo.svg" width="36" height="36" alt="Vite" />
-  </a>
-  <a href="#tech-stack">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="36" height="36" alt="vscode" />
-  </a>
+<a href="#tech-stack">
+  <img src="https://eslint.org/icon.svg" width="36" height="36" alt="ESLint" />
+</a>
   <a href="#tech-stack">
     <img src="https://apexcharts.com/wp-content/themes/apexcharts/img/apexcharts-logo-white-trimmed.svg" width="36" height="36" alt="ApexCharts" />
   </a>
   <a href="#tech-stack">
-    <img src="https://raw.githubusercontent.com/Splidejs/splide/d7e1f08e6b4f4b02a7c6ccbfbeb2d569d85715e6/images/logo.svg" width="36" height="36" alt="Splidejs" />
-  </a>
-  <a href="#tech-stack">
-    <img src="https://pinia.vuejs.org/logo.svg" width="36" height="36" alt="pinia" />
+    <img src="https://raw.githubusercontent.com/Splidejs/splide/d7e1f08e6b4f4b02a7c6ccbfbeb2d569d85715e6/images/logo.svg" width="36" height="36" alt="SplideJS" />
   </a>
 </div>
