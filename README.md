@@ -18,7 +18,7 @@
 - 🏗️ &nbsp; I build SPAs with Feature-Sliced Design — clean layers, easy to maintain and scale
 - 💻 &nbsp; I enjoy working at the intersection of solid architecture and polished UX
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/Fizz1eOut?tab=repositories).
-- 💬 &nbsp; Feel free to reach out  [здесь](https://t.me/Fizzleout)
+- 💬 &nbsp; Feel free to reach out  [here](https://t.me/Fizzleout)
 
 ### 🔨 Languages & Tools:
 
